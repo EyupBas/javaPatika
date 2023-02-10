@@ -30,6 +30,7 @@ public class NotOrtalamasi {
         String vDurum = (durum) ? "Tebrikler Geçtiniz" : "Kaldiniz";
         System.out.println(vDurum);
 
+
     }
 
 }

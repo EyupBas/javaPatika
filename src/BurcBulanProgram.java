@@ -79,6 +79,7 @@ Aynı örneği switch-case kullanmadan yapınız.
                 } else
                     System.out.println("Yengeç burcusunuz");
                 break;
+
             case 7:
                     if (day <= 22) {
                         System.out.println("Yengeç Burcusunuz");

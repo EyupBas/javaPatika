@@ -30,6 +30,7 @@ tutar 1000 TL'den büyük ise KDV oranını %8 olarak KDV tutarı hesaplayan pro
 
         kdvOran = (tutar<=1000) ? 0.18 : 0.8 ;
 
+
         System.out.println("KDV'siz Tutar :" + tutar);
         System.out.println("KDV Oranı :" + kdvOran);
         System.out.println("KDV Tutarı :" + kdvTutari);

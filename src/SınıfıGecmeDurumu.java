@@ -17,6 +17,7 @@ Eğer girilen ders notları 0 veya 100 arasında değil ise ortalamaya katılmas
         System.out.print("Matematik notu:");
         mat = ders.nextInt();
 
+
         System.out.print("turkce notu:");
         turkce = ders.nextInt();
 

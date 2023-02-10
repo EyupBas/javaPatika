@@ -37,5 +37,6 @@ Aynı örnek üzerinden if koşulları başka hangi şekilde oluşturulabilirdi
 
 
 
+
     }
 }

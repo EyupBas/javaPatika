@@ -15,6 +15,7 @@ public class DortVeBesinKuvvetleri {
         System.out.println("5'in Kuvvetleri : ");
         for (int j = 1; j < n; j *=5){
             System.out.println(j + "");
+
         }
     }
 }

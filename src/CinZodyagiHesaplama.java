@@ -54,6 +54,7 @@ Doğum Yılınızı Giriniz : 1990
             System.out.println("Çin Zodyağı Burcunuz : Maymun");
         }
         if(yas%12==1){
+
             System.out.println("Çin Zodyağı Burcunuz : Horoz");
         }
         if(yas%12==2){

@@ -11,6 +11,7 @@ public class forGirilensayiyakadarCiftsayilariAlma {
         for (int i = 1; i <k ; i++) {
             if(i%2==0) {
                 System.out.println(i);
+
             }
 
         }

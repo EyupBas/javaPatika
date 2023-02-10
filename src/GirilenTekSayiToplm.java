@@ -11,6 +11,7 @@ Java döngüler ile tek bir sayı girilene kadar kullanıcıdan girişleri kabul
         int sayi, sub = 0;
         Scanner number = new Scanner(System.in);
 
+
         do{
             System.out.print("Lütfen bir sayı giriniz : ");
             sayi = number.nextInt();

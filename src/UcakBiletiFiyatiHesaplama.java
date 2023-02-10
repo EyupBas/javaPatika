@@ -31,6 +31,7 @@ Kişi "Yolculuk Tipini" gidiş dönüş seçmiş ise bilet fiyatı üzerinden %2
             toplamfiyat = mesafe*mesafebasiucret;
 
             if (yas < 12 ){
+
                 toplamfiyat =toplamfiyat-(toplamfiyat*0.5);
             }
             else if (yas>=12 && yas<=24){

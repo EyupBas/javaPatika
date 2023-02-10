@@ -21,6 +21,7 @@ Alan * Alan = 𝑢 * (𝑢 − 𝑎)* (𝑢 − 𝑏) * (𝑢 − 𝑐)
 
         Scanner input = new Scanner(System.in);
 
+
         System.out.print("Kenar Uzunluğunu Giriniz: ");
         ku = input.nextDouble();
         System.out.print("İkinci Kenarın Uzunluğunu Giriniz: ");

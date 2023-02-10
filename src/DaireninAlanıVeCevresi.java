@@ -20,6 +20,7 @@ Formül : (𝜋 * (r*r) * 𝛼) / 360
          */
         double r,pi=3.14,alan,cevre;
 
+
         Scanner input = new Scanner(System.in);
 
         System.out.print("Dairenin Yarıçapını Giriniz: ");

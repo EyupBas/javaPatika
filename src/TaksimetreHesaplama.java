@@ -16,6 +16,7 @@ Taksimetre açılış ücreti 10 TL'dir.
         Scanner mesafe = new Scanner(System.in);
         System.out.print("mesafe kac km :");
         km = mesafe.nextDouble();
+
         tutar = acılıs+(km * 2.20);
         System.out.println(tutar<20 ? "kisa Mesafe Ucreti 20TL" : tutar +"TL");
     }

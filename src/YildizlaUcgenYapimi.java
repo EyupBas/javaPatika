@@ -48,6 +48,7 @@ public class YildizlaUcgenYapimi {
                 System.out.println(" ");
             }
             a--;
+
         }
     }
 }

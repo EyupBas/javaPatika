@@ -14,6 +14,7 @@ public class UsluSayilar {
         for (int i = 1; i <= u; i++){
             total *= n;
         }
+
         System.out.println(n + " Saysının " + u + "." + " dereceden kuvveti : " + total);
     }
 }

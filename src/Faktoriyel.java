@@ -20,6 +20,7 @@ C(n,r) = n! / (r! * (n-r)!)
 
         for (int i=1 ; i<=n ; i++) {
             toplam *=i;
+
         }
         for (int i=1 ; i<=r ; i++) {
             grup *=i;

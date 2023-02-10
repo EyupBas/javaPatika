@@ -19,6 +19,7 @@ Java döngüler ile 0'dan girilen sayıya kadar olan sayılardan
 
         for(i=0; i<=sayi; i++)
         {
+
             if( (i%3==0) && (i%4==0) )
             {
                 top+=i;

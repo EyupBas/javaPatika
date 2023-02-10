@@ -25,6 +25,7 @@ Vücut Kitle İndeksiniz : 35.49215792320173
         System.out.println("lütfen boyunuzu (metre cinsinden) giriniz");
         boy=input.nextDouble();
 
+
         System.out.println("vucut kitle indeksiniz :"+kilo/boy*boy);
 
 

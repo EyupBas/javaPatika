@@ -24,6 +24,7 @@ public class SayilariBuyukKucukSiralama {
             System.out.println("B>A>C");
         } else if (b>a && b>c && c>a) {
             System.out.println("B>C>A");
+
         }
         if (c>a && c>b && a>b){
             System.out.println("C>A>B");

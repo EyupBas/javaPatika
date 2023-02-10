@@ -16,6 +16,7 @@ public class BasamakSayiToplami {
 
         int tempNumber = number;
 
+
         while(tempNumber != 0){
             numMod = tempNumber%10;
             tempNumber /= 10;
