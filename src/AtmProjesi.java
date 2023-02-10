@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 public class AtmProjesi {
     public static void main(String[] args) {
+
         String username,pasword;
         Scanner scanner = new Scanner(System.in);
         int right =3;
@@ -50,6 +51,10 @@ public class AtmProjesi {
 
             }
         }
+
+
+
+
 
     }
 }
